@@ -1,287 +1,343 @@
-{
-    "movies": [
-        {
-            "id": 1,
-            "title": "Avatar",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842759656-5I2FVR41AOYZQK9409HB/Avatar_TWOW_IMAX_FinalPoster_DC_v03HD.jpg",
-            "largePoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842759656-5I2FVR41AOYZQK9409HB/Avatar_TWOW_IMAX_FinalPoster_DC_v03HD.jpg"
-        },
-        {
-            "id": 2,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://i.ebayimg.com/images/g/gAEAAOSwbFFh--dy/s-l1200.jpg",
-            "largePoster": "https://i.ebayimg.com/images/g/gAEAAOSwbFFh--dy/s-l1200.jpg",
-        },
-        {
-            "id": 3,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/I/61cdYGoHFrL._AC_UF1000,1000_QL80_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/I/61cdYGoHFrL._AC_UF1000,1000_QL80_.jpg"
-        },
-        {
-            "id": 4,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://i.ebayimg.com/images/g/PZQAAOSw4zdcUNqv/s-l1200.jpg",
-            "largePoster": "https://i.ebayimg.com/images/g/PZQAAOSw4zdcUNqv/s-l1200.jpg"
-        },
-        {
-            "id": 5,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842753281-3T90U1EY5HUNCG43XERJ/A2_Poster_DC_v80_PAYOFF_221029_12trimHD.jpg",
-            "largePoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842753281-3T90U1EY5HUNCG43XERJ/A2_Poster_DC_v80_PAYOFF_221029_12trimHD.jpg"
-        },
-        {
-            "id": 6,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://movie-posters.theworstbits.ca/sample_2_bluray.jpeg",
-            "largePoster": "https://movie-posters.theworstbits.ca/sample_2_bluray.jpeg"
-        },
-        {
-            "id": 7,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://i.pinimg.com/736x/71/5a/1e/715a1e748d1dd5ef06c2b62b7187c07e.jpg",
-            "largePoster": "https://i.pinimg.com/736x/71/5a/1e/715a1e748d1dd5ef06c2b62b7187c07e.jpg"
-        },
-        {
-            "id": 8,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://wallpapercave.com/wp/wp8872700.jpg",
-            "largePoster": "https://wallpapercave.com/wp/wp8872700.jpg"
-        },
-        {
-            "id": 9,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://i.ebayimg.com/images/g/ZXEAAOSwK~teH58z/s-l1200.jpg",
-            "largePoster": "https://i.ebayimg.com/images/g/ZXEAAOSwK~teH58z/s-l1200.jpg"
-        },
-        {
-            "id": 10,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://i.ebayimg.com/images/g/~w0AAOSwWLBZ6CU3/s-l1200.jpg",
-            "largePoster": "https://i.ebayimg.com/images/g/~w0AAOSwWLBZ6CU3/s-l1200.jpg"
-        },
-        {
-            "id": 11,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://media.harrypotterfanzone.com/philosophers-stone-20-years-of-movie-magic-poster.jpg",
-            "largePoster": "https://media.harrypotterfanzone.com/philosophers-stone-20-years-of-movie-magic-poster.jpg"
-        },
-        {
-            "id": 12,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/I/61su2735uZL._AC_UF1000,1000_QL80_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/I/61su2735uZL._AC_UF1000,1000_QL80_.jpg"
-        },
-        {
-            "id": 13,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://www.indiewire.com/wp-content/uploads/2017/09/another-earth-2011.jpg?w=674",
-            "largePoster": "https://www.indiewire.com/wp-content/uploads/2017/09/another-earth-2011.jpg?w=674"
-        },
-        {
-            "id": 14,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2015%2F06%2Fhollywood-movie-posters-redesigned-6.jpg?cbr=1&q=90",
-            "largePoster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2015%2F06%2Fhollywood-movie-posters-redesigned-6.jpg?cbr=1&q=90"
-        },
-        {
-            "id": 15,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://live.staticflickr.com/3674/19641293042_461a7e30c6_z.jpg",
-            "largePoster": "https://live.staticflickr.com/3674/19641293042_461a7e30c6_z.jpg"
-        },
-        {
-            "id": 16,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/a10f97108050255.5fb629683accc.jpg",
-            "largePoster": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/a10f97108050255.5fb629683accc.jpg"
-        },
-        {
-            "id": 17,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://rukminim2.flixcart.com/image/850/1000/jnc2bgw0/poster/c/h/b/medium-hollywood-movie-wall-poster-the-dark-tower-hd-quality-original-imafaff5pmwhe63n.jpeg?q=90&crop=false",
-            "largePoster": "https://rukminim2.flixcart.com/image/850/1000/jnc2bgw0/poster/c/h/b/medium-hollywood-movie-wall-poster-the-dark-tower-hd-quality-original-imafaff5pmwhe63n.jpeg?q=90&crop=false"
-        },
-        {
-            "id": 18,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/I/61vncOfMB0L._AC_UF1000,1000_QL80_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/I/61vncOfMB0L._AC_UF1000,1000_QL80_.jpg"
-        }
-    ],
-    "tvShows": [
-        {
-            "title": "Friends",
-            "price": 11.0,
-            "synopsis": "",
-            "type": "TVSHOW",
-            "smallPoster": "https://img.posterstore.com/zoom/wb0194-8friends-thefriendsportrayedno250x70.jpg",
-            "largePoster": "https://img.posterstore.com/zoom/wb0194-8friends-thefriendsportrayedno250x70.jpg",
-            "rentPrice": 9.0,
-            "purchasePrice": 10.0,
-            "isFeatured": true
-        },
-        {
-            "id": 2,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://www.tallengestore.com/cdn/shop/products/HowIMetYourMother-ClassicTVShowPoster4_10bc9d92-a6aa-4a30-88e4-f8b2d6086274.jpg?v=1596545666",
-            "largePoster": "https://www.tallengestore.com/cdn/shop/products/HowIMetYourMother-ClassicTVShowPoster4_10bc9d92-a6aa-4a30-88e4-f8b2d6086274.jpg?v=1596545666"
-        },
-        {
-            "id": 3,
-            "title": "Game of Thrones",
-            "synopsis": "The series focuses on several noble houses of Westeros and a complicated, multiparty war for the Iron Throne that features shifting conflicts, alliances, and betrayals",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://imaginus.ca/cdn/shop/products/713OLgPTIhL._AC_SL1024.jpg?v=1621969414",
-            "largePoster": "https://www.usatoday.com/gcdn/presto/2019/05/20/USAT/f44641fc-5482-4553-ba82-5f105f052391-AP_Game_of_Thrones_Economics_Confidence_Matters.JPG"
-        },
-        {
-            "id": 4,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a1654116269619.605e35b102e33.jpg",
-            "largePoster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a1654116269619.605e35b102e33.jpg"
-        },
-        {
-            "id": 5,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://preview.redd.it/young-sheldon-season-seven-poster-v0-pkb1lnykwedc1.jpeg?auto=webp&s=4acc48191de1658b6011638919343b5ea177632e",
-            "largePoster": "https://preview.redd.it/young-sheldon-season-seven-poster-v0-pkb1lnykwedc1.jpeg?auto=webp&s=4acc48191de1658b6011638919343b5ea177632e"
-        },
-        {
-            "id": 6,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://i.pinimg.com/736x/5a/1d/39/5a1d3935ff3c96c4e30b7995b2ffe335.jpg",
-            "largePoster": "https://i.pinimg.com/736x/5a/1d/39/5a1d3935ff3c96c4e30b7995b2ffe335.jpg"
-        },
-        {
-            "id": 7,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://media.comicbook.com/2021/07/riverdale-season-5-return-poster-1277225.jpeg?auto=webp&width=800&height=1199&crop=800:1199,smart",
-            "largePoster": "https://media.comicbook.com/2021/07/riverdale-season-5-return-poster-1277225.jpeg?auto=webp&width=800&height=1199&crop=800:1199,smart"
-        },
-        {
-            "id": 8,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
-        },
-        {
-            "id": 9,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/I/91n4CQr5vZL._AC_UF1000,1000_QL80_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/I/91n4CQr5vZL._AC_UF1000,1000_QL80_.jpg"
-        },
-        {
-            "id": 10,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/M/MV5BYTA1OTQzYTYtNDAwOC00OTk0LTkxZDktMmVlNTc1OWExMzA5XkEyXkFqcGdeQXVyMTMxMTgyMzU4._V1_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/M/MV5BYTA1OTQzYTYtNDAwOC00OTk0LTkxZDktMmVlNTc1OWExMzA5XkEyXkFqcGdeQXVyMTMxMTgyMzU4._V1_.jpg"
-        },
-        {
-            "id": 11,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://image.tmdb.org/t/p/original/iMkf08RrRDRkjBKMng1OVFLnOlo.jpg",
-            "largePoster": "https://image.tmdb.org/t/p/original/iMkf08RrRDRkjBKMng1OVFLnOlo.jpg"
-        },
-        {
-            "id": 12,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://image.tmdb.org/t/p/original/aTKHLW9rEC6yJSGiK2GVqxVfl5j.jpg",
-            "largePoster": "https://image.tmdb.org/t/p/original/aTKHLW9rEC6yJSGiK2GVqxVfl5j.jpg"
-        },
-        {
-            "id": 13,
-            "title": "Gone girl",
-            "synopsis": "Avatar dgfdgfdg",
-            "rentPrice": "$10.0",
-            "buyPrice": "$15.0",
-            "smallPoster": "https://m.media-amazon.com/images/I/81nWrtLnULL._AC_UF894,1000_QL80_.jpg",
-            "largePoster": "https://m.media-amazon.com/images/I/81nWrtLnULL._AC_UF894,1000_QL80_.jpg"
-        }
-    ]
-}
+[
+  {
+    "title": "Avatar",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842759656-5I2FVR41AOYZQK9409HB/Avatar_TWOW_IMAX_FinalPoster_DC_v03HD.jpg",
+    "largePoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842759656-5I2FVR41AOYZQK9409HB/Avatar_TWOW_IMAX_FinalPoster_DC_v03HD.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://i.ebayimg.com/images/g/gAEAAOSwbFFh--dy/s-l1200.jpg",
+    "largePoster": "https://i.ebayimg.com/images/g/gAEAAOSwbFFh--dy/s-l1200.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://m.media-amazon.com/images/I/61cdYGoHFrL._AC_UF1000,1000_QL80_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/I/61cdYGoHFrL._AC_UF1000,1000_QL80_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://i.ebayimg.com/images/g/PZQAAOSw4zdcUNqv/s-l1200.jpg",
+    "largePoster": "https://i.ebayimg.com/images/g/PZQAAOSw4zdcUNqv/s-l1200.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842753281-3T90U1EY5HUNCG43XERJ/A2_Poster_DC_v80_PAYOFF_221029_12trimHD.jpg",
+    "largePoster": "https://images.squarespace-cdn.com/content/v1/5a7f41ad8fd4d236a4ad76d0/1669842753281-3T90U1EY5HUNCG43XERJ/A2_Poster_DC_v80_PAYOFF_221029_12trimHD.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://movie-posters.theworstbits.ca/sample_2_bluray.jpeg",
+    "largePoster": "https://movie-posters.theworstbits.ca/sample_2_bluray.jpeg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://i.pinimg.com/736x/71/5a/1e/715a1e748d1dd5ef06c2b62b7187c07e.jpg",
+    "largePoster": "https://i.pinimg.com/736x/71/5a/1e/715a1e748d1dd5ef06c2b62b7187c07e.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://wallpapercave.com/wp/wp8872700.jpg",
+    "largePoster": "https://wallpapercave.com/wp/wp8872700.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://i.ebayimg.com/images/g/ZXEAAOSwK~teH58z/s-l1200.jpg",
+    "largePoster": "https://i.ebayimg.com/images/g/ZXEAAOSwK~teH58z/s-l1200.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://i.ebayimg.com/images/g/~w0AAOSwWLBZ6CU3/s-l1200.jpg",
+    "largePoster": "https://i.ebayimg.com/images/g/~w0AAOSwWLBZ6CU3/s-l1200.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://media.harrypotterfanzone.com/philosophers-stone-20-years-of-movie-magic-poster.jpg",
+    "largePoster": "https://media.harrypotterfanzone.com/philosophers-stone-20-years-of-movie-magic-poster.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://m.media-amazon.com/images/I/61su2735uZL._AC_UF1000,1000_QL80_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/I/61su2735uZL._AC_UF1000,1000_QL80_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://www.indiewire.com/wp-content/uploads/2017/09/another-earth-2011.jpg?w=674",
+    "largePoster": "https://www.indiewire.com/wp-content/uploads/2017/09/another-earth-2011.jpg?w=674",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2015%2F06%2Fhollywood-movie-posters-redesigned-6.jpg?cbr=1&q=90",
+    "largePoster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2015%2F06%2Fhollywood-movie-posters-redesigned-6.jpg?cbr=1&q=90",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://live.staticflickr.com/3674/19641293042_461a7e30c6_z.jpg",
+    "largePoster": "https://live.staticflickr.com/3674/19641293042_461a7e30c6_z.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/a10f97108050255.5fb629683accc.jpg",
+    "largePoster": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/a10f97108050255.5fb629683accc.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://rukminim2.flixcart.com/image/850/1000/jnc2bgw0/poster/c/h/b/medium-hollywood-movie-wall-poster-the-dark-tower-hd-quality-original-imafaff5pmwhe63n.jpeg?q=90&crop=false",
+    "largePoster": "https://rukminim2.flixcart.com/image/850/1000/jnc2bgw0/poster/c/h/b/medium-hollywood-movie-wall-poster-the-dark-tower-hd-quality-original-imafaff5pmwhe63n.jpeg?q=90&crop=false",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "MOVIE",
+    "smallPoster": "https://m.media-amazon.com/images/I/61vncOfMB0L._AC_UF1000,1000_QL80_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/I/61vncOfMB0L._AC_UF1000,1000_QL80_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Friends",
+    "price": 11.0,
+    "synopsis": "",
+    "type": "TVSHOW",
+    "smallPoster": "https://img.posterstore.com/zoom/wb0194-8friends-thefriendsportrayedno250x70.jpg",
+    "largePoster": "https://img.posterstore.com/zoom/wb0194-8friends-thefriendsportrayedno250x70.jpg",
+    "rentPrice": 9.0,
+    "purchasePrice": 10.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://www.tallengestore.com/cdn/shop/products/HowIMetYourMother-ClassicTVShowPoster4_10bc9d92-a6aa-4a30-88e4-f8b2d6086274.jpg?v=1596545666",
+    "largePoster": "https://www.tallengestore.com/cdn/shop/products/HowIMetYourMother-ClassicTVShowPoster4_10bc9d92-a6aa-4a30-88e4-f8b2d6086274.jpg?v=1596545666",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Game of Thrones",
+    "price": 15.0,
+    "synopsis": "The series focuses on several noble houses of Westeros and a complicated, multiparty war for the Iron Throne that features shifting conflicts, alliances, and betrayals",
+    "type": "TVSHOW",
+    "smallPoster": "https://imaginus.ca/cdn/shop/products/713OLgPTIhL._AC_SL1024.jpg?v=1621969414",
+    "largePoster": "https://www.usatoday.com/gcdn/presto/2019/05/20/USAT/f44641fc-5482-4553-ba82-5f105f052391-AP_Game_of_Thrones_Economics_Confidence_Matters.JPG",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a1654116269619.605e35b102e33.jpg",
+    "largePoster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a1654116269619.605e35b102e33.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": true
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://preview.redd.it/young-sheldon-season-seven-poster-v0-pkb1lnykwedc1.jpeg?auto=webp&s=4acc48191de1658b6011638919343b5ea177632e",
+    "largePoster": "https://preview.redd.it/young-sheldon-season-seven-poster-v0-pkb1lnykwedc1.jpeg?auto=webp&s=4acc48191de1658b6011638919343b5ea177632e",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://i.pinimg.com/736x/5a/1d/39/5a1d3935ff3c96c4e30b7995b2ffe335.jpg",
+    "largePoster": "https://i.pinimg.com/736x/5a/1d/39/5a1d3935ff3c96c4e30b7995b2ffe335.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://media.comicbook.com/2021/07/riverdale-season-5-return-poster-1277225.jpeg?auto=webp&width=800&height=1199&crop=800:1199,smart",
+    "largePoster": "https://media.comicbook.com/2021/07/riverdale-season-5-return-poster-1277225.jpeg?auto=webp&width=800&height=1199&crop=800:1199,smart",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://m.media-amazon.com/images/I/91n4CQr5vZL._AC_UF1000,1000_QL80_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/I/91n4CQr5vZL._AC_UF1000,1000_QL80_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://m.media-amazon.com/images/M/MV5BYTA1OTQzYTYtNDAwOC00OTk0LTkxZDktMmVlNTc1OWExMzA5XkEyXkFqcGdeQXVyMTMxMTgyMzU4._V1_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/M/MV5BYTA1OTQzYTYtNDAwOC00OTk0LTkxZDktMmVlNTc1OWExMzA5XkEyXkFqcGdeQXVyMTMxMTgyMzU4._V1_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://image.tmdb.org/t/p/original/iMkf08RrRDRkjBKMng1OVFLnOlo.jpg",
+    "largePoster": "https://image.tmdb.org/t/p/original/iMkf08RrRDRkjBKMng1OVFLnOlo.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://image.tmdb.org/t/p/original/aTKHLW9rEC6yJSGiK2GVqxVfl5j.jpg",
+    "largePoster": "https://image.tmdb.org/t/p/original/aTKHLW9rEC6yJSGiK2GVqxVfl5j.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  },
+  {
+    "title": "Gone girl",
+    "price": 15.0,
+    "synopsis": "Avatar dgfdgfdg",
+    "type": "TVSHOW",
+    "smallPoster": "https://m.media-amazon.com/images/I/81nWrtLnULL._AC_UF894,1000_QL80_.jpg",
+    "largePoster": "https://m.media-amazon.com/images/I/81nWrtLnULL._AC_UF894,1000_QL80_.jpg",
+    "rentPrice": 10.0,
+    "purchasePrice": 15.0,
+    "isFeatured": false
+  }
+]
