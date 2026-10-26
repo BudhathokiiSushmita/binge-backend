@@ -4,13 +4,13 @@ REST API for **Binge**, an OTT (streaming platform) clone. It serves movie and T
 
 Frontend repository: [binge-frontend](https://github.com/BudhathokiiSushmita/binge-frontend)
 
-Live demo: _coming soon_
+Live demo: [binge-frontend-kappa.vercel.app](https://binge-frontend-kappa.vercel.app). The backend runs on a free Render instance, so the first request after a period of inactivity can take about a minute.
 
 ## Features
 
 - Browse movies and TV shows: featured content, full lists by type, details by ID, and search
 - User signup and login endpoints
-- Spring Security configuration
+- Spring Security: content can be read publicly, while write routes are restricted
 - Configurable frontend origin through an environment variable
 - Docker support for containerized deployment
 
@@ -36,6 +36,7 @@ The content type (`{type}`) is defined in `ContentEnum`.
 | GET | `/content/all/{type}` | All items of a type |
 | GET | `/content/{id}` | Details of one item |
 | GET | `/content/all/{type}/{search}` | Search items of a type |
+| POST, PUT, DELETE | `/content` | Add, update, delete content. Restricted: requires authentication, so data is managed in the database |
 
 **User** (`/user`)
 
@@ -43,6 +44,7 @@ The content type (`{type}`) is defined in `ContentEnum`.
 |---|---|---|
 | POST | `/user` | Register a new user |
 | POST | `/user/authenticate` | Log in |
+| GET | `/user/{id}` | Restricted: requires authentication |
 
 ## Project Structure
 
@@ -73,7 +75,8 @@ The app reads its settings from environment variables, so no secrets are stored 
 | Variable | Required | Description |
 |---|---|---|
 | `MONGODB_URI` | Yes | MongoDB connection string, including the database name |
-| `FRONT_URL` | No | Frontend origin. Defaults to `http://localhost:3000` |
+| `FRONT_URL` | No | Frontend origin allowed by CORS. Defaults to `http://localhost:3000` |
+| `PORT` | No | Server port. Defaults to `8080` (set automatically on Render) |
 
 ### Run locally
 
@@ -96,7 +99,11 @@ docker run -p 8080:8080 -e MONGODB_URI="<your connection string>" binge-back
 
 ## Sample Data
 
-`data-folder/db.json` contains sample movies and TV shows used during development.
+`data-folder/db.json` contains sample movies and TV shows. Import it into the `content` collection of your MongoDB database (for example, with the Atlas Data Explorer).
+
+## Deployment
+
+The backend is containerized with Docker and deployed on [Render](https://render.com), with data stored in MongoDB Atlas. Set `MONGODB_URI` and `FRONT_URL` as environment variables on the host. The frontend is deployed on Vercel.
 
 ## Author
 
