@@ -6,6 +6,7 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.http.HttpMethod;
 
 /**
  * Configuration class for Spring Security.
@@ -23,14 +24,15 @@ public class SecurityConfig {
               .csrf(csrf -> csrf.disable())
               .authorizeRequests(authorizeRequests ->
                       authorizeRequests
-                              .requestMatchers("/content/**",
-                                      "/user/**",
-                                      "/user").permitAll()
-                              .anyRequest().authenticated()
+                        .requestMatchers(HttpMethod.OPTIONS, "/**").permitAll()
+                        .requestMatchers(HttpMethod.GET, "/content/**").permitAll()
+                        .requestMatchers(HttpMethod.POST, "/user", "/user/authenticate").permitAll()
+                        .anyRequest().authenticated()
               );
 
       return http.build();
    }
+
 
    @Bean
    public PasswordEncoder passwordEncoder() {

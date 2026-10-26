@@ -19,7 +19,7 @@ import java.util.Collections;
  * @author Sushmita Budhathoki on 2024-07-15
  */
 
-@CrossOrigin({"https://binge-theta.vercel.app", "http://localhost:3000"})
+@CrossOrigin(origins = {"${frontUrl}", "http://localhost:3000"})
 @RestController
 @RequestMapping(BingeConstants.userAPI)
 public class UserController {
